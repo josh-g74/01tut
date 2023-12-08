@@ -1,3 +1,11 @@
+# What chapter of the video I am on
+
+Chapter 2
+
+# Video Link: 
+
+https://www.youtube.com/watch?v=RVFAyFWO4go
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
