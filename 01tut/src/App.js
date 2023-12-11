@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   const handleNameChange = () => {
-    const names = ['Kiana','Kaylani','Amy'];
-    const int = Math.floor(Math.random() * 3);
+    const names = ['Kiana','Kaylani','Amy','Andrew'];
+    const int = Math.floor(Math.random() * 4);
     return names[int];
   }
 
@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello {handleNameChange()}!
+          Hello {handleNameChange()}, Lets learn to code!
         </p>
       </header>
     </div>
