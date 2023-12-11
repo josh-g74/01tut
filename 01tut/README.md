@@ -1,6 +1,6 @@
 # What chapter of the video I am on
 
-Chapter 7
+Chapter 8
 
 # Video Link: 
 
